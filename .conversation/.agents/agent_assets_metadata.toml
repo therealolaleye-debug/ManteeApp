@@ -1,0 +1,16 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "mCay8kzR5YyKDuLN4tnUZ"
+uri = "file://ManteeTech_Production_Store_Master_Prompt.md"
+type = "text"
+title = "ManteeTech Production Store Master Prompt"
+description = "A copy-ready build brief for a secure, SEO-ready, mobile-first single-vendor ManteeTech storefront, tailored to the supplied starter and logo."
+logical_id = "9842e7c2-f35d-48ab-8519-e179902ff741"
+content_hash = "sha256:6251351ee9880bb09130de52d66fc79c6422efcfc49a84ea912d8662a447c31d"
+size = 18423
+mtime_ms = 1790762024670
+storage_uri = "gcs://replit-rams-assets-riker/rams/assets/conversation:41350b7e-ed7a-40de-94ce-644cbd4d8c5f/9842e7c2-f35d-48ab-8519-e179902ff741/70d33279-5610-4e99-8675-9bf28fee4987"
+storage_version_token = "1790762030415106"
+content_type = "text/markdown"
